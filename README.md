@@ -29,7 +29,7 @@ python3 setup.py install
 ## Quick Usage
 
 ```bash
-ape trezor add $account_name
+ape trezor add [PICK AN ALIAS]
 ```
 you can now load the account like any other account in Ape console and then use it to sign transactions.
 
